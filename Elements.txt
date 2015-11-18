@@ -1,0 +1,20 @@
+Elements for " "
+
+
+Basic: Air, Water, Fire, Earth, Lightning;
+
+Sub-basic: Steam, Mud, Ice, Iron, Lava, ...;
+
+Organic: Regenerate, Heal, Scream, Bite, Throw, ...;
+
+Science/Machinery: Toxic, Repair, Laser, Missile, ...;
+
+...
+
+Presets: Touch, Self, Projectile, Channel, Cone, Wall, Beam, ...;
+
+Modifiers: AOE, Chain, Over time, ...;
+
+GIVE MEH IDEASSSS!!!
+
+ToonStar®

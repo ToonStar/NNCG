@@ -1,0 +1,23 @@
+A text file that contains David Kostov`s idea for a PC game!
+All further content is game ideas that might or might not be implemented.
+
+Name: MUST THINK OF A NAME FFS!!!
+
+Genre: (PVP/VE) Arena /w RPG elements (open to changes)
+
+Basic idea: A game where you build your character from the ground and allow him/her to evolve.
+You will start off by creating your character (choosing race, alignment to faction(if there are factions), physical properties(such as being muscular or not, being tall or not, etc.), etc.). 
+Have to decide whether a player should have one or multiple characters.
+You will get a passive skill for the race/faction you choose (or for both, have to decide).
+Than you will move on to building your own skills using elements given to you when you start(could be random elements or preset ones for everyone).
+You will get to build one passive skill, three active skills(you can trade for passives) and one ultimate skill which must be active.
+The ultimate goal for the developers is to make as much elements as possible so that the variaty of combinations is very big!
+Elements reffers to everything required to make a skill in the game, be it an actuall element like FIRE or a preset like PROJECTILE.(Affinities must be added for races/factions)
+The skills you make and the physical properties of your character will greatly affect your game experience.(must decide if and how you will be able to alter them(more precisely the physical properties))
+
+Abstract ideas: The game itself will be played out on an arena where you battle other people and their creations.
+Must decide whether there will be an RPG element and how big it will be.(could limit it to training in some kind of lobby)
+RPG element could be expanded in an actual storyline.
+NEED MORE IDEAS PLOX!!
+
+ToonStar®
